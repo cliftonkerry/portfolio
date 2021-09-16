@@ -4,4 +4,3 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 This is a third line.
 
-The toothbrush can speak seven different languages.”
