@@ -1,2 +1,2 @@
-# exercise
-Git and Github For Writers
+# Writing Samples
+
